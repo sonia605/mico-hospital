@@ -1,0 +1,66 @@
+ *
+ body {
+    font-family: Arial, sans-serif;
+}
+.theme-color {
+    color: #00bfa6;
+    /* background-color: white; */
+}
+
+.border-colour{
+    border-color:2px solid  #00bfa6;
+}
+.navbar-brand{
+    background-color: white;
+    
+}
+
+.navbar {
+    background-color: #00bfa6;
+}
+.navbar-nav .nav-link {
+    color: #fff !important;
+}
+.navbar-nav .nav-link:hover {
+    color: #ddd !important;
+}
+.hero-section {
+    /* background-color: #f5f5f5; */
+    padding: 50px 0;
+}
+.hero-section h1 {
+    color: #00bfa6;
+}
+.appointment-form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.image-block {
+    margin-top: 200px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 310px;
+    height: auto;
+}
+.form-control  {
+    border: 2px solid #83d6f7;
+
+}
+
+.appointment-section {
+    margin-bottom: 10px;
+    
+    margin-top: 10px;
+}
+
+.image-next, .image-prev {
+    background-color: #00bfa6;
+    margin-top: 500px;
+    padding: 10px 15px;
+    /* position: absolute; */
+}
+
